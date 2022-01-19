@@ -1,4 +1,4 @@
 # Portfolio
 
 ## 1) Project Titanic
-[GitHub Pages](https://pages.github.com/)
+[Project Titanic](https://github.com/Segith/Projects/blob/main/Proiect%20TITANIC.ipynb)
