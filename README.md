@@ -22,3 +22,16 @@ In this project we applied Apriori Alghoritm to the Bread Basket database to ans
 5) What are the association rules between the products
 
 [Apriori Alghoritm](https://github.com/Segith/Projects/blob/main/Apropri.ipynb)
+
+
+## 3) Costumer Segmentation
+
+In this project we used K-means and Principal Component Analysis to create costumer groups.
+
+[Costumer Segmentation](https://github.com/Segith/Projects/blob/main/Costumer%20Segmentation.ipynb)
+
+## 4) Fake News Classifier 
+
+In this project I used I created 3 fake news classification models. Because fake news is a relatively new phenomenon with considerable consequences, it deserves our full attention.
+
+[Fake News Classifier](https://github.com/Segith/Projects/blob/main/Fake%20News%20Project.ipynb)
