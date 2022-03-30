@@ -35,3 +35,7 @@ In this project we used K-means and Principal Component Analysis to create costu
 Fake news is a big issue of the 21st century. In ancient Athens, fake news spread through the speeches of politicians or sophists. Aristotle solves this problem by laying the foundations of logic. I think it is our duty to do the same, but using more advanced tools. In this project created classification models with the aim to predict and classify fake news.
 
 [Fake News Classifier](https://github.com/Segith/Projects/blob/main/Fake%20News%20Project.ipynb)
+
+## 5) Beer Production in Australia forecast for 1996
+
+[Beer Production Forecast](https://github.com/Segith/Projects/blob/main/Monthly%20Beer%20Production%20Australia%20for%201996.ipynb)
