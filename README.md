@@ -42,10 +42,4 @@ In this project we used 3 models: Linear Regression, SARIMA and Exponential Smoo
 
 [Beer Production Forecast](https://github.com/Segith/Projects/blob/main/Monthly%20Beer%20Production%20Australia%20for%201996.ipynb)
 
-## 6) Age and Gender Classification. Deep Learning Project
-
-In this project I am exploring a dataset from Kaggle that contains images of people of various age and gender. I am creating a single model that returns age and gender in a single pass. I am then using LIME to return the top best/worst predictions. At the same moment I am exploring the ethical considerations of image recognition. 
-
-[Age and Gender Classification. Deep Learning Project](https://github.com/Segith/Projects/blob/main/Age%20and%20Gender%20classification.rar)
-
 
