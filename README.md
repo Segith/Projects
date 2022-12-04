@@ -1,5 +1,7 @@
 # Portfolio
 
+## Machine Learning
+
 ## 1) Project Titanic
 In the next project we plan to use the famous Titanic.csv dataset to 
 1) Do a rigorous data analysis
@@ -41,5 +43,9 @@ Fake news is a big issue of the 21st century. In ancient Athens, fake news sprea
 In this project we used 3 models: Linear Regression, SARIMA and Exponential Smoothing in order to predict the montly beer production in Australia for the year 1996. We used a database with the montly beer production in Australia from 1950 to 1995. 
 
 [Beer Production Forecast](https://github.com/Segith/Projects/blob/main/Monthly%20Beer%20Production%20Australia%20for%201996.ipynb)
+
+# SQL
+
+[SQL and Data Analysis](https://github.com/Segith/Projects/blob/main/SQL%2C%20EDA%20and%20DA.ipynb)
 
 
