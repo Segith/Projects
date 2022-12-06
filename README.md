@@ -44,6 +44,9 @@ In this project we used 3 models: Linear Regression, SARIMA and Exponential Smoo
 
 [Beer Production Forecast](https://github.com/Segith/Projects/blob/main/Monthly%20Beer%20Production%20Australia%20for%201996.ipynb)
 
+# Deep Learning
+[Age and Gender Classification using Keras](https://github.com/Segith/Projects/blob/main/Age%20and%20Gender%20classification.zip)
+
 # SQL
 
 [SQL and Data Analysis](https://github.com/Segith/Projects/blob/main/SQL%2C%20EDA%20and%20DA.ipynb)
