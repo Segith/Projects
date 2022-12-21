@@ -56,4 +56,3 @@ When NaN's are present in a database, most people chose the easiest way possible
 
 [SQL and Data Analysis](https://github.com/Segith/Projects/blob/main/SQL%2C%20EDA%20and%20DA.ipynb)
 
-Imputation with Scikit-Learnhttps://github.com/Segith/Projects/blob/main/Imputation.ipynb
