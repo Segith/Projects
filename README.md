@@ -49,6 +49,9 @@ When NaN's are present in a database, most people chose the easiest way possible
 
 [Imputation using scikit-learn](https://github.com/Segith/Projects/blob/main/Imputation.ipynb)
 
+## 7) EDA with PySpark
+[PySpark](https://github.com/Segith/Projects/blob/main/EDA%20with%20PySpark.ipynb)
+
 # Deep Learning
 [Age and Gender Classification using Keras](https://github.com/Segith/Projects/blob/main/Age%20and%20Gender%20classification.zip)
 
