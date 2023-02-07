@@ -54,10 +54,18 @@ In this project I am exploring two databases and I am applying both supervised a
 
 [PySpark](https://github.com/Segith/Projects/blob/main/EDA%20with%20PySpark.ipynb)
 
+## 8) MongoDB (PyMongo)
+In this project I am exploring the different functionalities of Mongo by also creating a database
+
+[MongoDB](https://github.com/Segith/Projects/blob/main/MongoDB.ipynb)
+
 # Deep Learning
 [Age and Gender Classification using Keras](https://github.com/Segith/Projects/blob/main/Age%20and%20Gender%20classification.zip)
+
 
 # SQL
 
 [SQL and Data Analysis](https://github.com/Segith/Projects/blob/main/SQL%2C%20EDA%20and%20DA.ipynb)
+
+
 
