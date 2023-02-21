@@ -59,6 +59,11 @@ In this project I am exploring the different functionalities of Mongo by also cr
 
 [MongoDB](https://github.com/Segith/Projects/blob/main/MongoDB.ipynb)
 
+### 9) BigQuery
+In this project I am using 2 databases (Stack Overflow and Hacker News). The two databases contain millions of rows and they are a perfect fit for exploration using BigQuery
+
+[BigQuery](https://github.com/Segith/Projects/blob/main/BigQuery.ipynb)
+
 ## Web Scraping
 In this project I use a database of about 700 URLs. These URLs contain various stores webpages. I am using a crawler for about 100 of these pages
 to scrape them and create a model that automatically scrapes the rest of the pages of "PRODUCTS".
